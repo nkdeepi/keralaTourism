@@ -1,0 +1,70 @@
+/* .logo1{
+    border-radius: 10px;
+    height: 80px;
+    width: 80px;
+}
+.logo2{
+    text-align-last: right;
+} */
+/* .imgone{
+    position: relative;
+      top: 0;
+      left: 0;
+}
+.imgtwo{
+    position: absolute;
+      top:0;
+      left:0;
+    border-radius: 10px;
+    height: 50px;
+    width: 50px;
+} */
+/* header {
+    height:180vh;
+    min-height:400px;
+    background-size:cover;
+    background-image:url("image1.jpg");
+}
+
+.hidden-spacer {
+    height: 56px
+} */
+.container-fluid{
+    font-weight: bolder;
+    margin-left: auto;
+    /* background-image:url("image1.jpg"); */
+    
+  /* background-position:right; */
+  
+  /* background-repeat: no-repeat;
+  background-size: cover; */
+
+  /* Needed to position the navbar */
+  /* position:absolute;
+} */
+/* .card{
+    display:block;
+    width:100%;
+    justify-content: space-between;
+flex-direction: row;
+flex-wrap: wrap;
+}
+.card-body{
+    border:1px solid black;
+} */
+
+
+
+
+/* form{
+     margin-left: 5px;
+    width: 30%,
+    text-align: center,
+
+    color: brown,
+    font-size: larger,
+
+} */
+
+
+}
